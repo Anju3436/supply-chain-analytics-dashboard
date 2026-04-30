@@ -20,9 +20,9 @@ Understand customer segmentation.
 
 Compare location-wise logistics performance.
 
-# 📷 Dashboard Preview
+# 📷 Dashboard Preview 
 
-
+![Data Preview](supply.PNG)
 
 # 📊 Key Metrics
 💰 Total Revenue: 577.60K
