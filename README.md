@@ -8,15 +8,15 @@ This project showcases a Supply Chain Analytics Dashboard built using Power BI t
 The dashboard helps in understanding revenue trends, cost distribution, logistics performance, and customer behavior to support data-driven decision-making.
 
 # 🎯 Objectives
-Analyze overall revenue, cost, and profit
+Analyze overall revenue, cost, and profit.
 
-Evaluate shipping cost by transportation modes
+Evaluate shipping cost by transportation modes.
 
-Identify top-performing product categories
+Identify top-performing product categories.
 
-Understand customer segmentation
+Understand customer segmentation.
 
-Compare location-wise logistics performance
+Compare location-wise logistics performance.
 
 # 📷 Dashboard Preview
 
@@ -29,7 +29,7 @@ Compare location-wise logistics performance
 
 💸 Total Cost: 52.92K
 
-🚚 Total Shipping Cost: 554.81
+🚚 Total Shipping Cost: 554.8K
 
 🏭 Manufacturing Cost: 4.73K
 
