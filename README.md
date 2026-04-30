@@ -1,5 +1,6 @@
 # 📊 Supply Chain Analytics Dashboard
 🚀 Power BI Project | Data Analytics
+
 Interactive Supply Chain Analytics Dashboard built in Power BI to uncover business insights and optimize logistics performance.
 
 # 📌 Project Overview
