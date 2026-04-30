@@ -22,7 +22,7 @@ Compare location-wise logistics performance.
 
 # 📷 Dashboard Preview 
 
-![Data Preview](supply.PNG)
+![Data Preview](supply%201.PNG)
 
 # 📊 Key Metrics
 💰 Total Revenue: 577.60K
