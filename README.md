@@ -9,9 +9,13 @@ The dashboard helps in understanding revenue trends, cost distribution, logistic
 
 # 🎯 Objectives
 Analyze overall revenue, cost, and profit
+
 Evaluate shipping cost by transportation modes
+
 Identify top-performing product categories
+
 Understand customer segmentation
+
 Compare location-wise logistics performance
 
 # 📷 Dashboard Preview
@@ -20,9 +24,13 @@ Compare location-wise logistics performance
 
 # 📊 Key Metrics
 💰 Total Revenue: 577.60K
+
 📈 Total Profit: 524.68K
+
 💸 Total Cost: 52.92K
+
 🚚 Total Shipping Cost: 554.81
+
 🏭 Manufacturing Cost: 4.73K
 
 
@@ -55,15 +63,21 @@ Dashboard Screenshot
 
 # 🚀 How to Use
 Download the .pbix file
+
 Open in Power BI Desktop
+
 Explore the dashboard using filters and visuals.
 
 # 💡 Skills Demonstrated
 Data Cleaning & Transformation
+
 Dashboard Design
+
 Data Storytelling
+
 Business Insights Generation
 
 # 📌 Author
 Anju S Santhosh
+
 🎯 Aspiring Data Analyst
