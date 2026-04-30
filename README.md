@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-image-link" width="800"/>
+  <img src="supply 1. PNG" width="800"/>
 </p>
 
 # 📊 Supply Chain Analytics Dashboard
