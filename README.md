@@ -28,20 +28,28 @@ Compare location-wise logistics performance
 
 # 🔍 Key Insights
 📦 Skincare products recorded the highest sales volume
+
 ⏱️ Shipping time has a strong impact on revenue trends
+
 🚛 Road transportation contributes the largest share of shipping cost
+
 👥 Customer distribution shows diverse engagement across segments
+
 🌍 Shipping cost varies significantly across locations
 
 
 # 🛠️ Tools & Technologies
 Power BI
+
 Data Visualization
+
 Data Analysis
 
 # 📁 Project Files
 Supply Chain Dashboard.pbix – Power BI dashboard file
+
 Dataset
+
 Dashboard Screenshot
 
 
