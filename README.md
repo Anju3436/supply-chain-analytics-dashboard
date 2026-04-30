@@ -1,5 +1,9 @@
+<p align="center">
+  <img src="your-image-link" width="800"/>
+</p>
+
 # 📊 Supply Chain Analytics Dashboard
-🚀 Power BI Project | Data Analytics
+🚀 Power BI Project | Data Analytics|Business Intelligence.
 
 Interactive Supply Chain Analytics Dashboard built in Power BI to uncover business insights and optimize logistics performance.
 
@@ -35,15 +39,15 @@ Compare location-wise logistics performance.
 
 
 # 🔍 Key Insights
-📦 Skincare products recorded the highest sales volume
+📦 Skincare products recorded the highest sales volume.
 
-⏱️ Shipping time has a strong impact on revenue trends
+⏱️ Shipping time has a strong impact on revenue trends.
 
-🚛 Road transportation contributes the largest share of shipping cost
+🚛 Road transportation contributes the largest share of shipping cost.
 
-👥 Customer distribution shows diverse engagement across segments
+👥 Customer distribution shows diverse engagement across segments.
 
-🌍 Shipping cost varies significantly across locations
+🌍 Shipping cost varies significantly across locations.
 
 
 # 🛠️ Tools & Technologies
