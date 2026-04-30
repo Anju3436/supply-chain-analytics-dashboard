@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="supply 1. PNG" width="800"/>
-</p>
-
 # 📊 Supply Chain Analytics Dashboard
 🚀 Power BI Project | Data Analytics|Business Intelligence.
 
