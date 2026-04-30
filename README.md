@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="your-image-link" width="800"/>
+</p>
 
 # 📊 Supply Chain Analytics Dashboard
 🚀 Power BI Project | Data Analytics|Business Intelligence.
@@ -31,7 +33,7 @@ Compare location-wise logistics performance.
 
 💸 Total Cost: 52.92K
 
-🚚 Total Shipping Cost: 554.8K
+🚚 Total Shipping Cost: 554.81
 
 🏭 Manufacturing Cost: 4.73K
 
